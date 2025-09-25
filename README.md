@@ -28,11 +28,11 @@ A full-stack Notes Manager application built with the MEAN stack (MongoDB, Expre
 - *Reactive Forms* - Form handling
 
 ## Project Structure
-notes-manager/
+```notes-manager/
 ├── backend/ # Node.js/Express API
 ├── frontend/ # Angular application
 └── README.md
-
+```
 text
 
 ## Quick Start
