@@ -33,7 +33,7 @@ A full-stack Notes Manager application built with the MEAN stack (MongoDB, Expre
 ├── frontend/ # Angular application
 └── README.md
 ```
-text
+
 
 ## Quick Start
 
@@ -142,7 +142,7 @@ MongoDB Connection: Verify connection string in .env
 
 Port Conflicts: Change ports in environment files if needed
 
-text
+
 
 ## Sample cURL Commands
 
